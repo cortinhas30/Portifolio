@@ -20,7 +20,7 @@ const Home = () => {
             <button className="group text-white w-fit px-6 py-3 my-2 flex items-center rounded-md bg-gradient-to-r from-cyan-500 to to-blue-500 cursor-pointer">
               Portifolio
               <span className="group-hover:rotate-90 duration-300">
-                <MdOutlineArrowRightAlt size={30} />
+                <MdOutlineArrowRightAlt size={30} className="ml-1"/>
               </span>
             </button>
           </div>
@@ -29,7 +29,7 @@ const Home = () => {
           <img
             src={HeroImage}
             alt="my profile"
-            className="object-cover h-96 w-96 rounded-2xl mx-auto w-2/3 md:w-full"
+            className="object-cover h-96 w-96 rounded-2xl mx-auto md:w-full"
           />
         </div>
       </div>

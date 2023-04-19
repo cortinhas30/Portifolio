@@ -14,23 +14,26 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Odio aliquam
-          at earum architecto optio illo inventore quia nemo ullam voluptatibus.
-          Quae, aperiam excepturi iste accusamus illo eveniet sed quaerat
-          dolorum suscipit nesciunt, maxime et doloribus harum odit asperiores
-          consequuntur optio sapiente explicabo incidunt sequi iure provident
-          sit? Perspiciatis, consectetur minus.
+          Formado em Engenharia de Computação na Universidade Federal do
+          Pará (UFPA), com formação também em Tecnico em Informatica pelo
+          Instituto Federal do Pará, possuo boa experiencia com programação
+          tendo um artigo publicado recentemente sobre um jogo desenvolvido
+          na plataforma Unity3D com o objetivo de democratizar o ensino do 
+          inglês, jogo esse que foi escrito em C# e possui a feature de 
+          reconhecimento de voz.
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime
-          deleniti aut adipisci dignissimos temporibus a facere natus neque
-          aliquid eos. Sapiente ea nulla quasi non numquam nihil rem delectus
-          eos sunt id quidem enim quae, ipsum veritatis eveniet soluta
-          consequuntur magnam illo ipsa asperiores iure libero esse, sequi
-          commodi. Ducimus!
+          Possuo experiencia com varias tecnologias, como por exemplo C,
+          Python, Java, C#, mas atualmente venho trabalhando minhas habilidades
+          em Javascript e frameworks React e React Native, já tendo trabalhado
+          no desenvolvimento de um aplicativo para consultas de notas fiscais
+          em um escritorio contabil durante o estagio obrigatorio, alem de todo
+          frontend desenvolvido com React, ainda trabalhei no desenvolvimento do
+          backend com NodeJS, experiencias solidas que me ajudaram a crescer como
+          desenvolvedor. 
         </p>
       </div>
     </div>
